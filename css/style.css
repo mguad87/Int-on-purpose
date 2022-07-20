@@ -1,0 +1,18 @@
+* { 
+  box-sizing: border-box;
+}
+h1 {
+  font-family: 'Anton', sans-serif;
+  color: #fff;
+  text-align: center;
+}
+body{
+  background-color: #000;
+}
+img { 
+  max-width: 100%;
+  display:block;
+}
+.img-center {
+  margin: 0 auto;
+}
